@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-09-18T11:38:12Z" product-name="dto_mapper">
+		<header/>
+		<body>
+			<trans-unit id="tx_dtomapper_domain_model_foo">
+				<source>Foo</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
